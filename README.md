@@ -1,2 +1,3 @@
 # python-Tic-Tac-Toe
-first game in python
+A Tic Tac Toe game with a 3 by 3 matrix
+To run using Python 3: python Tic_Tac_Toe.py
